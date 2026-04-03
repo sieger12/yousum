@@ -5,8 +5,17 @@ import "./globals.css";
 const geist = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "YouSum – Free YouTube Video Summary & Transcript Tool",
-  description: "Get instant AI-powered summaries, transcripts, and key timestamps for any YouTube video. Free, fast, no login required.",
+  title: "YouSum – Free YouTube Transcript & Video Summary Tool",
+  description: "Get a free YouTube transcript and AI video summary in seconds. Generate key takeaways, timestamps, notes, FAQs, and action points from any YouTube video with captions.",
+  metadataBase: new URL("https://yousum.io"),
+  alternates: { canonical: "/" },
+  openGraph: {
+    title: "YouSum – Free YouTube Transcript & Video Summary Tool",
+    description: "Get a free YouTube transcript and AI video summary in seconds.",
+    url: "https://yousum.io",
+    siteName: "YouSum",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
