@@ -8,16 +8,20 @@ const EXAMPLES = [
   { label: "Y Combinator", url: "https://www.youtube.com/watch?v=0lJKucu6HJc" },
 ];
 
-export default function SearchForm() {
+export default function SearchForm({ locale = "en" }: { locale?: string }) {
   const [input, setInput] = useState("");
   const [error, setError] = useState("");
   const router = useRouter();
+  const isKo = locale === "ko";
 
   const submit = (value: string) => {
     const id = extractVideoId(value.trim());
-    if (!id) { setError("Please enter a valid YouTube URL or video ID."); return; }
+    if (!id) {
+      setError(isKo ? "유효한 유튜브 URL 또는 영상 ID를 입력해주세요." : "Please enter a valid YouTube URL or video ID.");
+      return;
+    }
     setError("");
-    router.push(`/summary/${id}`);
+    router.push(`/${locale}/summary/${id}`);
   };
 
   return (
@@ -29,7 +33,7 @@ export default function SearchForm() {
               type="text"
               value={input}
               onChange={e => { setInput(e.target.value); setError(""); }}
-              placeholder="Paste YouTube URL here..."
+              placeholder={isKo ? "유튜브 URL을 붙여넣으세요..." : "Paste YouTube URL here..."}
               className="w-full bg-transparent outline-none text-white placeholder-zinc-600 text-sm"
               autoComplete="off"
               spellCheck={false}
@@ -40,14 +44,14 @@ export default function SearchForm() {
             className="px-6 py-3 rounded-xl font-bold text-white text-sm transition hover:brightness-110 active:scale-95 whitespace-nowrap"
             style={{ background: "linear-gradient(135deg, #f43f5e, #f97316)" }}
           >
-            Summarize
+            {isKo ? "요약하기" : "Summarize"}
           </button>
         </div>
         {error && <p className="text-rose-400 text-xs mt-2 pl-1">{error}</p>}
       </form>
 
       <div className="flex items-center gap-3 mt-3 pl-1">
-        <span className="text-zinc-600 text-xs">Try:</span>
+        <span className="text-zinc-600 text-xs">{isKo ? "예시:" : "Try:"}</span>
         {EXAMPLES.map(ex => (
           <button
             key={ex.label}
@@ -58,7 +62,9 @@ export default function SearchForm() {
           </button>
         ))}
       </div>
-      <p className="text-zinc-700 text-xs mt-2 pl-1">Works best with videos that have captions enabled.</p>
+      <p className="text-zinc-700 text-xs mt-2 pl-1">
+        {isKo ? "자막이 있는 영상에서 가장 잘 작동합니다." : "Works best with videos that have captions enabled."}
+      </p>
     </div>
   );
 }

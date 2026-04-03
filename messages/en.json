@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Free YouTube Transcript & Video Summary Tool",
+    "homeDesc": "Get a free YouTube transcript and AI video summary in seconds. Generate key takeaways, timestamps, notes, FAQs, and action points from any YouTube video with captions.",
+    "howTitle": "How YouSum Works | YouTube Transcript & AI Video Summary Tool",
+    "howDesc": "Learn how YouSum turns YouTube videos into transcripts, AI summaries, key points, timestamps, and FAQs in seconds. Fast, simple, and free to try."
+  },
+  "nav": {
+    "summarizer": "Summarizer",
+    "howItWorks": "How it works"
+  },
+  "footer": "© 2026 YouSum · Not affiliated with YouTube or Google.",
+  "home": {
+    "badge": "Free AI Tool",
+    "h1": "Free YouTube Transcript &",
+    "h1gradient": "AI Video Summary Tool",
+    "sub": "Paste a YouTube URL to get a full transcript, concise AI summary, key timestamps, notes, and FAQs in seconds.",
+    "placeholder": "Paste YouTube URL here...",
+    "button": "Summarize",
+    "tryLabel": "Try:",
+    "captionNote": "Works best with videos that have captions enabled.",
+    "features": [
+      { "icon": "✦", "title": "3-Line Summary", "desc": "Get the core message of any video without watching it." },
+      { "icon": "◈", "title": "Key Points + FAQ", "desc": "Extracted insights, beginner explanation, and action checklist." },
+      { "icon": "⊕", "title": "Full Transcript", "desc": "Read with timestamps — click any line to jump in the video." }
+    ]
+  }
+}
