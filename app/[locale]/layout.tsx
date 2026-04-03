@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
 import { routing } from "@/i18n/routing";
+import { buildHreflang } from "@/lib/hreflang";
 import "../globals.css";
 
 const geist = Geist({ subsets: ["latin"] });
@@ -19,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     metadataBase: new URL("https://yousum.io"),
     alternates: {
       canonical: `/${locale}`,
-      languages: { en: "/en", ko: "/ko" },
+      languages: buildHreflang(""),
     },
     openGraph: {
       title: t("homeTitle"),
@@ -37,7 +38,7 @@ export function generateStaticParams() {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params;
-  if (!routing.locales.includes(locale as "en" | "ko")) notFound();
+  if (!routing.locales.includes(locale as typeof routing.locales[number])) notFound();
   const messages = await getMessages();
 
   return (

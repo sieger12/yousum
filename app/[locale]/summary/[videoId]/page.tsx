@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import { fetchVideoMeta } from "@/lib/youtube";
+import { buildHreflang } from "@/lib/hreflang";
 import SummaryClient from "./SummaryClient";
 
 type Props = { params: Promise<{ locale: string; videoId: string }> };
@@ -18,10 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         : `Read the AI-generated summary, full transcript, key timestamps, and FAQs for "${meta.title}" — free on YouSum.`,
       alternates: {
         canonical: `/${locale}/summary/${videoId}`,
-        languages: {
-          en: `/en/summary/${videoId}`,
-          ko: `/ko/summary/${videoId}`,
-        },
+        languages: buildHreflang(`/summary/${videoId}`),
       },
       openGraph: {
         title: isKo ? `${meta.title} 자막 & 요약 | YouSum` : `${meta.title} Transcript & Summary | YouSum`,
