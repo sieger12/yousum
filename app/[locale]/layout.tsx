@@ -5,6 +5,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { buildHreflang } from "@/lib/hreflang";
+import LocaleSwitcher from "@/components/LocaleSwitcher";
 import "../globals.css";
 
 const geist = Geist({ subsets: ["latin"] });
@@ -57,10 +58,7 @@ export default async function LocaleLayout({ children, params }: Props) {
                     {locale === "ko" ? "사용 방법" : "How it works"}
                   </a>
                 </nav>
-                <div className="flex gap-1 text-xs">
-                  <a href="/en" className={`px-2 py-1 rounded transition ${locale === "en" ? "text-white font-semibold" : "text-zinc-600 hover:text-zinc-400"}`}>EN</a>
-                  <a href="/ko" className={`px-2 py-1 rounded transition ${locale === "ko" ? "text-white font-semibold" : "text-zinc-600 hover:text-zinc-400"}`}>KO</a>
-                </div>
+                <LocaleSwitcher locale={locale} />
               </div>
             </div>
           </header>
