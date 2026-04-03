@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Strumento gratuito per trascrizioni e riassunti video YouTube",
+    "homeDesc": "Ottieni gratuitamente una trascrizione YouTube e un riassunto video con IA in pochi secondi. Estrai punti chiave, timestamp, note e FAQ da qualsiasi video YouTube.",
+    "howTitle": "Come funziona YouSum | Trascrizione YouTube e riassunto video con IA",
+    "howDesc": "Scopri come YouSum trasforma i video YouTube in trascrizioni, riassunti IA, punti chiave, timestamp e FAQ in pochi secondi."
+  },
+  "nav": { "summarizer": "Riassunto", "howItWorks": "Come funziona" },
+  "footer": "© 2026 YouSum · Non affiliato a YouTube o Google.",
+  "home": {
+    "badge": "Strumento IA Gratuito",
+    "h1": "Trascrizione YouTube gratuita &",
+    "h1gradient": "Strumento di riassunto video IA",
+    "sub": "Incolla un URL YouTube per ottenere una trascrizione completa, un riassunto IA, timestamp chiave, note e FAQ in pochi secondi.",
+    "placeholder": "Incolla qui l'URL YouTube...",
+    "button": "Riassumi",
+    "tryLabel": "Prova:",
+    "captionNote": "Funziona meglio con i video che hanno i sottotitoli abilitati.",
+    "features": [
+      { "icon": "✦", "title": "Riassunto in 3 righe", "desc": "Ottieni il messaggio centrale di qualsiasi video senza guardarlo." },
+      { "icon": "◈", "title": "Punti chiave + FAQ", "desc": "Insight estratti, spiegazione per principianti e lista di azioni." },
+      { "icon": "⊕", "title": "Trascrizione completa", "desc": "Leggi con timestamp — clicca su qualsiasi riga per saltare nel video." }
+    ],
+    "seo": {
+      "h2_1": "Cos'è uno strumento di trascrizione YouTube?",
+      "p1": "Uno strumento di trascrizione YouTube ti aiuta a trasformare il contenuto parlato di un video in testo leggibile. Invece di rivedere un video lungo, puoi scorrere la trascrizione e trovare esattamente ciò di cui hai bisogno.",
+      "h2_2": "Come YouSum riassume i video YouTube",
+      "p2": "YouSum prende un URL YouTube, estrae la trascrizione disponibile e la trasforma in un riassunto conciso con punti chiave, timestamp e FAQ.",
+      "h2_3": "Quando usare un riassunto video YouTube",
+      "p3": "Un riassunto video è utile quando vuoi risparmiare tempo, confrontare rapidamente più video o rivedere una lunga discussione senza ricominciare dall'inizio.",
+      "h2_4": "Perché le trascrizioni e i timestamp sono importanti",
+      "p4": "Le trascrizioni e i timestamp rendono il contenuto video ricercabile e aiutano a trovare risposte precise senza dover scorrere l'intero video.",
+      "faqTitle": "Domande frequenti",
+      "faqs": [
+        { "q": "Posso ottenere una trascrizione da qualsiasi video YouTube?", "a": "YouSum funziona con qualsiasi video YouTube pubblico con i sottotitoli abilitati." },
+        { "q": "YouSum funziona senza sottotitoli?", "a": "No — YouSum dipende dai dati dei sottotitoli di YouTube. I video senza sottotitoli non possono essere riassunti." },
+        { "q": "Posso riassumere lunghi video educativi?", "a": "Sì. YouSum gestisce contenuti lunghi come lezioni, podcast completi e interviste." },
+        { "q": "YouSum è gratuito?", "a": "Sì, completamente gratuito. Nessun accesso richiesto." }
+      ],
+      "toolsTitle": "Strumenti"
+    }
+  }
+}

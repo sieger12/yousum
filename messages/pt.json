@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Ferramenta gratuita de transcrição e resumo de vídeo do YouTube",
+    "homeDesc": "Obtenha gratuitamente uma transcrição do YouTube e um resumo de vídeo com IA em segundos. Extraia pontos-chave, carimbos de tempo, notas e FAQs de qualquer vídeo do YouTube.",
+    "howTitle": "Como o YouSum funciona | Transcrição do YouTube e resumo de vídeo com IA",
+    "howDesc": "Aprenda como o YouSum transforma vídeos do YouTube em transcrições, resumos com IA, pontos-chave, carimbos de tempo e FAQs em segundos."
+  },
+  "nav": { "summarizer": "Resumidor", "howItWorks": "Como funciona" },
+  "footer": "© 2026 YouSum · Não afiliado ao YouTube ou Google.",
+  "home": {
+    "badge": "Ferramenta de IA Gratuita",
+    "h1": "Transcrição gratuita do YouTube &",
+    "h1gradient": "Ferramenta de resumo de vídeo com IA",
+    "sub": "Cole um URL do YouTube para obter uma transcrição completa, resumo com IA, carimbos de tempo, notas e FAQs em segundos.",
+    "placeholder": "Cole o URL do YouTube aqui...",
+    "button": "Resumir",
+    "tryLabel": "Experimentar:",
+    "captionNote": "Funciona melhor com vídeos que têm legendas ativadas.",
+    "features": [
+      { "icon": "✦", "title": "Resumo em 3 linhas", "desc": "Obtenha a mensagem central de qualquer vídeo sem assisti-lo." },
+      { "icon": "◈", "title": "Pontos-chave + FAQ", "desc": "Insights extraídos, explicação para iniciantes e lista de ações." },
+      { "icon": "⊕", "title": "Transcrição completa", "desc": "Leia com carimbos de tempo — clique em qualquer linha para saltar no vídeo." }
+    ],
+    "seo": {
+      "h2_1": "O que é uma ferramenta de transcrição do YouTube?",
+      "p1": "Uma ferramenta de transcrição do YouTube ajuda a transformar o conteúdo falado de um vídeo em texto legível. Em vez de reproduzir um vídeo longo, pode percorrer a transcrição e encontrar exatamente o que precisa.",
+      "h2_2": "Como o YouSum resume vídeos do YouTube",
+      "p2": "O YouSum recebe um URL do YouTube, extrai a transcrição disponível e transforma-a num resumo conciso com pontos-chave, carimbos de tempo e FAQs.",
+      "h2_3": "Quando usar um resumo de vídeo do YouTube",
+      "p3": "Um resumo de vídeo é útil quando quer poupar tempo, comparar vários vídeos rapidamente ou rever uma longa discussão sem começar do início.",
+      "h2_4": "Por que as transcrições e os carimbos de tempo são importantes",
+      "p4": "As transcrições e os carimbos de tempo tornam o conteúdo de vídeo pesquisável e ajudam a encontrar respostas exatas sem percorrer todo o vídeo.",
+      "faqTitle": "Perguntas frequentes",
+      "faqs": [
+        { "q": "Posso obter uma transcrição de qualquer vídeo do YouTube?", "a": "O YouSum funciona com qualquer vídeo público do YouTube que tenha legendas ativadas." },
+        { "q": "O YouSum funciona sem legendas?", "a": "Não — o YouSum depende dos dados de legendas do YouTube. Vídeos sem legendas não podem ser resumidos." },
+        { "q": "Posso resumir vídeos educativos longos?", "a": "Sim. O YouSum processa conteúdo longo como palestras, podcasts e entrevistas." },
+        { "q": "O YouSum é gratuito?", "a": "Sim, completamente gratuito. Sem necessidade de login." }
+      ],
+      "toolsTitle": "Ferramentas"
+    }
+  }
+}

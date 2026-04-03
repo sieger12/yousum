@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Gratis YouTube-transkription och videosammanfattningsverktyg",
+    "homeDesc": "Få en gratis YouTube-transkription och AI-videosammanfattning på sekunder. Extrahera nyckelpunkter, tidsstämplar, anteckningar och vanliga frågor från vilken YouTube-video som helst.",
+    "howTitle": "Hur YouSum fungerar | YouTube-transkription och AI-videosammanfattning",
+    "howDesc": "Lär dig hur YouSum förvandlar YouTube-videor till transkriptioner, AI-sammanfattningar, nyckelpunkter, tidsstämplar och FAQ på sekunder."
+  },
+  "nav": { "summarizer": "Sammanfattning", "howItWorks": "Hur det fungerar" },
+  "footer": "© 2026 YouSum · Inte ansluten till YouTube eller Google.",
+  "home": {
+    "badge": "Gratis AI-verktyg",
+    "h1": "Gratis YouTube-transkription &",
+    "h1gradient": "AI-videosammanfattningsverktyg",
+    "sub": "Klistra in en YouTube-URL för att få en fullständig transkription, AI-sammanfattning, tidsstämplar, anteckningar och FAQ på sekunder.",
+    "placeholder": "Klistra in YouTube-URL här...",
+    "button": "Sammanfatta",
+    "tryLabel": "Prova:",
+    "captionNote": "Fungerar bäst med videor som har undertexter aktiverade.",
+    "features": [
+      { "icon": "✦", "title": "3-raders sammanfattning", "desc": "Få kärnbudskapet i vilken video som helst utan att titta på den." },
+      { "icon": "◈", "title": "Nyckelpunkter + FAQ", "desc": "Extraherade insikter, förklaring för nybörjare och checklista för åtgärder." },
+      { "icon": "⊕", "title": "Fullständig transkription", "desc": "Läs med tidsstämplar — klicka på valfri rad för att hoppa i videon." }
+    ],
+    "seo": {
+      "h2_1": "Vad är ett YouTube-transkriptionsverktyg?",
+      "p1": "Ett YouTube-transkriptionsverktyg hjälper dig att omvandla talat videoinnehåll till läsbar text. Istället för att spela upp en lång video igen kan du skanna transkriptionen och hitta exakt det du behöver.",
+      "h2_2": "Hur YouSum sammanfattar YouTube-videor",
+      "p2": "YouSum tar en YouTube-URL, extraherar den tillgängliga transkriptionen och omvandlar den till en kortfattad sammanfattning med nyckelpunkter, tidsstämplar och FAQ.",
+      "h2_3": "När du ska använda en YouTube-videosammanfattning",
+      "p3": "En videosammanfattning är användbar när du vill spara tid, snabbt jämföra flera videor eller granska en lång diskussion utan att börja om.",
+      "h2_4": "Varför transkriptioner och tidsstämplar är viktiga",
+      "p4": "Transkriptioner och tidsstämplar gör videoinnehåll sökbart och hjälper användare att hitta exakta svar utan att behöva söka igenom hela videon.",
+      "faqTitle": "Vanliga frågor",
+      "faqs": [
+        { "q": "Kan jag få en transkription från vilken YouTube-video som helst?", "a": "YouSum fungerar med vilken offentlig YouTube-video som helst med aktiverade undertexter." },
+        { "q": "Fungerar YouSum utan undertexter?", "a": "Nej — YouSum förlitar sig på YouTubes undertextdata. Videor utan undertexter kan inte sammanfattas." },
+        { "q": "Kan jag sammanfatta långa utbildningsvideor?", "a": "Ja. YouSum hanterar långt innehåll som föreläsningar, fullständiga podcaster och intervjuer." },
+        { "q": "Är YouSum gratis?", "a": "Ja, helt gratis. Ingen inloggning krävs." }
+      ],
+      "toolsTitle": "Verktyg"
+    }
+  }
+}

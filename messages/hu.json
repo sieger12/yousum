@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Ingyenes YouTube-átirat és videóösszefoglaló eszköz",
+    "homeDesc": "Kapjon ingyenes YouTube-átiratot és AI videóösszefoglalót másodpercek alatt. Nyerjen ki kulcspontokat, időbélyegeket, jegyzeteket és GYIK-eket bármely YouTube-videóból.",
+    "howTitle": "Hogyan működik a YouSum | YouTube-átirat és AI videóösszefoglaló",
+    "howDesc": "Ismerje meg, hogyan alakítja a YouSum a YouTube-videókat átirattá, AI-összefoglalóvá, kulcspontokká, időbélyegekké és GYIK-ké másodpercek alatt."
+  },
+  "nav": { "summarizer": "Összefoglaló", "howItWorks": "Hogyan működik" },
+  "footer": "© 2026 YouSum · Nem kapcsolódik a YouTube-hoz vagy a Google-hoz.",
+  "home": {
+    "badge": "Ingyenes AI-eszköz",
+    "h1": "Ingyenes YouTube-átirat &",
+    "h1gradient": "AI videóösszefoglaló eszköz",
+    "sub": "Illesszen be egy YouTube-URL-t, hogy másodpercek alatt teljes átiratot, AI-összefoglalót, időbélyegeket, jegyzeteket és GYIK-eket kapjon.",
+    "placeholder": "Illesszen be YouTube-URL-t ide...",
+    "button": "Összefoglalás",
+    "tryLabel": "Próbálja ki:",
+    "captionNote": "Feliratokkal rendelkező videókkal működik a legjobban.",
+    "features": [
+      { "icon": "✦", "title": "3 soros összefoglaló", "desc": "Szerezze meg bármely videó lényegi üzenetét anélkül, hogy megnézné." },
+      { "icon": "◈", "title": "Kulcspontok + GYIK", "desc": "Kinyert betekintések, kezdőknek szóló magyarázat és cselekvési ellenőrzőlista." },
+      { "icon": "⊕", "title": "Teljes átirat", "desc": "Olvassa időbélyegekkel — kattintson bármely sorra, hogy a videóba ugorjon." }
+    ],
+    "seo": {
+      "h2_1": "Mi az a YouTube-átirat eszköz?",
+      "p1": "A YouTube-átirat eszköz segít a videó hangzó tartalmát olvasható szöveggé alakítani. Ahelyett, hogy újra lejátszana egy hosszú videót, végigpásztázhatja az átiratot és megtalálhatja a szükséges részt.",
+      "h2_2": "Hogyan foglalja össze a YouSum a YouTube-videókat",
+      "p2": "A YouSum vesz egy YouTube-URL-t, kinyeri az elérhető átiratot, és tömör összefoglalóvá alakítja kulcspontokkal, időbélyegekkel és GYIK-kel.",
+      "h2_3": "Mikor érdemes YouTube videóösszefoglalót használni",
+      "p3": "A videóösszefoglaló hasznos, ha időt szeretne megtakarítani, gyorsan össze szeretne hasonlítani több videót, vagy elejéről kezdés nélkül szeretne áttekinteni egy hosszú vitát.",
+      "h2_4": "Miért fontosak az átiratok és az időbélyegek",
+      "p4": "Az átiratok és időbélyegek kereshetővé teszik a videótartalmat, és segítenek a felhasználóknak pontos válaszokat találni anélkül, hogy végig kellene nézniük a teljes videót.",
+      "faqTitle": "Gyakran Ismételt Kérdések",
+      "faqs": [
+        { "q": "Kaphatok átiratot bármely YouTube-videóhoz?", "a": "A YouSum bármely nyilvános YouTube-videóval működik, amelyen engedélyezve vannak a feliratok." },
+        { "q": "Működik a YouSum feliratok nélkül?", "a": "Nem — a YouSum a YouTube feliratadataira támaszkodik. Feliratok nélküli videók nem foglalhatók össze." },
+        { "q": "Összefoglalhatok hosszú oktatóvideókat?", "a": "Igen. A YouSum kezeli a hosszú tartalmakat, mint például előadások, teljes podcastok és interjúk." },
+        { "q": "Ingyenes a YouSum?", "a": "Igen, teljesen ingyenes. Bejelentkezés nem szükséges." }
+      ],
+      "toolsTitle": "Eszközök"
+    }
+  }
+}

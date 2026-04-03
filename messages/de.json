@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Kostenloses YouTube Transkript & Video-Zusammenfassung Tool",
+    "homeDesc": "Erhalte kostenlos ein YouTube-Transkript und eine KI-Videozusammenfassung in Sekunden. Extrahiere wichtige Punkte, Zeitstempel, Notizen und FAQs aus jedem YouTube-Video.",
+    "howTitle": "Wie YouSum funktioniert | YouTube Transkript & KI Video-Zusammenfassung",
+    "howDesc": "Erfahre, wie YouSum YouTube-Videos in Transkripte, KI-Zusammenfassungen, Kernpunkte, Zeitstempel und FAQs verwandelt. Schnell, einfach und kostenlos."
+  },
+  "nav": { "summarizer": "Zusammenfassung", "howItWorks": "So funktioniert es" },
+  "footer": "© 2026 YouSum · Nicht verbunden mit YouTube oder Google.",
+  "home": {
+    "badge": "Kostenloses KI-Tool",
+    "h1": "Kostenloses YouTube-Transkript &",
+    "h1gradient": "KI Video-Zusammenfassung",
+    "sub": "Füge eine YouTube-URL ein und erhalte ein vollständiges Transkript, eine KI-Zusammenfassung, Zeitstempel, Notizen und FAQs in Sekunden.",
+    "placeholder": "YouTube-URL hier einfügen...",
+    "button": "Zusammenfassen",
+    "tryLabel": "Ausprobieren:",
+    "captionNote": "Funktioniert am besten mit Videos mit aktivierten Untertiteln.",
+    "features": [
+      { "icon": "✦", "title": "3-Zeilen-Zusammenfassung", "desc": "Erhalte die Kernaussage eines Videos, ohne es anzusehen." },
+      { "icon": "◈", "title": "Kernpunkte + FAQ", "desc": "Extrahierte Erkenntnisse, Erklärung für Anfänger und Aktionscheckliste." },
+      { "icon": "⊕", "title": "Vollständiges Transkript", "desc": "Lesen mit Zeitstempeln — klicke auf eine Zeile, um im Video zu springen." }
+    ],
+    "seo": {
+      "h2_1": "Was ist ein YouTube-Transkript-Tool?",
+      "p1": "Ein YouTube-Transkript-Tool hilft dir, gesprochene Videoinhalte in lesbaren Text umzuwandeln. Statt ein langes Video erneut abzuspielen, kannst du das Transkript durchsuchen und zur gewünschten Stelle springen.",
+      "h2_2": "Wie YouSum YouTube-Videos zusammenfasst",
+      "p2": "YouSum nimmt eine YouTube-URL, extrahiert das verfügbare Transkript und wandelt es in eine präzise Zusammenfassung mit Kernpunkten, Zeitstempeln und FAQs um.",
+      "h2_3": "Wann eine YouTube-Videozusammenfassung nützlich ist",
+      "p3": "Eine Videozusammenfassung ist nützlich, wenn du Zeit sparen, mehrere Videos schnell vergleichen oder eine lange Diskussion ohne Neustart überprüfen möchtest.",
+      "h2_4": "Warum Transkripte und Zeitstempel wichtig sind",
+      "p4": "Transkripte und Zeitstempel machen Videoinhalte durchsuchbar und helfen dir, genaue Antworten zu finden, ohne das gesamte Video durchsuchen zu müssen.",
+      "faqTitle": "Häufig gestellte Fragen",
+      "faqs": [
+        { "q": "Kann ich ein Transkript von jedem YouTube-Video bekommen?", "a": "YouSum funktioniert mit jedem öffentlichen YouTube-Video, das Untertitel aktiviert hat." },
+        { "q": "Funktioniert YouSum ohne Untertitel?", "a": "Nein — YouSum basiert auf den Untertiteldaten von YouTube. Videos ohne Untertitel können nicht zusammengefasst werden." },
+        { "q": "Kann ich lange Bildungsvideos zusammenfassen?", "a": "Ja. YouSum verarbeitet lange Inhalte wie Vorlesungen, Podcasts und Interviews." },
+        { "q": "Ist YouSum kostenlos?", "a": "Ja, völlig kostenlos. Keine Anmeldung erforderlich." }
+      ],
+      "toolsTitle": "Tools"
+    }
+  }
+}

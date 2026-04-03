@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Alat Transkripsi dan Ringkasan Video YouTube Gratis",
+    "homeDesc": "Dapatkan transkripsi YouTube dan ringkasan video AI secara gratis dalam hitungan detik. Ekstrak poin utama, stempel waktu, catatan, dan FAQ dari video YouTube mana pun.",
+    "howTitle": "Cara Kerja YouSum | Transkripsi YouTube dan Ringkasan Video AI",
+    "howDesc": "Pelajari cara YouSum mengubah video YouTube menjadi transkripsi, ringkasan AI, poin kunci, stempel waktu, dan FAQ dalam hitungan detik."
+  },
+  "nav": { "summarizer": "Peringkas", "howItWorks": "Cara kerja" },
+  "footer": "© 2026 YouSum · Tidak berafiliasi dengan YouTube atau Google.",
+  "home": {
+    "badge": "Alat AI Gratis",
+    "h1": "Transkripsi YouTube Gratis &",
+    "h1gradient": "Alat Ringkasan Video AI",
+    "sub": "Tempel URL YouTube untuk mendapatkan transkripsi lengkap, ringkasan AI, stempel waktu, catatan, dan FAQ dalam hitungan detik.",
+    "placeholder": "Tempel URL YouTube di sini...",
+    "button": "Ringkas",
+    "tryLabel": "Coba:",
+    "captionNote": "Bekerja paling baik dengan video yang memiliki teks terjemahan aktif.",
+    "features": [
+      { "icon": "✦", "title": "Ringkasan 3 Baris", "desc": "Dapatkan pesan utama dari video mana pun tanpa menontonnya." },
+      { "icon": "◈", "title": "Poin Utama + FAQ", "desc": "Wawasan yang diekstrak, penjelasan untuk pemula, dan daftar tindakan." },
+      { "icon": "⊕", "title": "Transkripsi Lengkap", "desc": "Baca dengan stempel waktu — klik baris mana pun untuk melompat ke video." }
+    ],
+    "seo": {
+      "h2_1": "Apa itu alat transkripsi YouTube?",
+      "p1": "Alat transkripsi YouTube membantu Anda mengubah konten lisan dari video menjadi teks yang dapat dibaca. Daripada memutar ulang video panjang, Anda dapat memindai transkripsi dan menemukan bagian yang Anda butuhkan.",
+      "h2_2": "Cara YouSum meringkas video YouTube",
+      "p2": "YouSum mengambil URL YouTube, mengekstrak transkripsi yang tersedia, dan mengubahnya menjadi ringkasan ringkas dengan poin kunci, stempel waktu, dan FAQ.",
+      "h2_3": "Kapan menggunakan ringkasan video YouTube",
+      "p3": "Ringkasan video berguna saat Anda ingin menghemat waktu, membandingkan beberapa video dengan cepat, atau meninjau diskusi panjang tanpa memulai dari awal.",
+      "h2_4": "Mengapa transkripsi dan stempel waktu penting",
+      "p4": "Transkripsi dan stempel waktu membuat konten video dapat dicari dan membantu pengguna menemukan jawaban tepat tanpa harus mencari di seluruh video.",
+      "faqTitle": "Pertanyaan yang Sering Diajukan",
+      "faqs": [
+        { "q": "Bisakah saya mendapatkan transkripsi dari video YouTube mana pun?", "a": "YouSum bekerja dengan video YouTube publik mana pun yang memiliki teks terjemahan aktif." },
+        { "q": "Apakah YouSum bekerja tanpa teks terjemahan?", "a": "Tidak — YouSum bergantung pada data teks terjemahan YouTube. Video tanpa teks terjemahan tidak dapat diringkas." },
+        { "q": "Bisakah saya meringkas video pendidikan yang panjang?", "a": "Ya. YouSum menangani konten panjang seperti kuliah, podcast penuh, dan wawancara." },
+        { "q": "Apakah YouSum gratis?", "a": "Ya, sepenuhnya gratis. Tidak perlu login." }
+      ],
+      "toolsTitle": "Alat"
+    }
+  }
+}

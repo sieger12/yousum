@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Zana ya Bure ya Kuandika na Kufupisha Video ya YouTube",
+    "homeDesc": "Pata muhtasari wa YouTube na muhtasari wa video wa AI bure kwa sekunde. Toa pointi muhimu, alama za wakati, maelezo na maswali yanayoulizwa mara kwa mara.",
+    "howTitle": "YouSum Inavyofanya Kazi | Kuandika YouTube na Muhtasari wa Video wa AI",
+    "howDesc": "Jifunze jinsi YouSum inavyobadilisha video za YouTube kuwa maandishi, muhtasari wa AI, pointi muhimu na alama za wakati kwa sekunde."
+  },
+  "nav": { "summarizer": "Muhtasari", "howItWorks": "Jinsi inavyofanya kazi" },
+  "footer": "© 2026 YouSum · Haihusiani na YouTube au Google.",
+  "home": {
+    "badge": "Zana ya Bure ya AI",
+    "h1": "Maandishi ya Bure ya YouTube &",
+    "h1gradient": "Zana ya Muhtasari wa Video wa AI",
+    "sub": "Bandika URL ya YouTube kupata maandishi kamili, muhtasari wa AI, alama za wakati, maelezo na FAQ kwa sekunde.",
+    "placeholder": "Bandika URL ya YouTube hapa...",
+    "button": "Fupisha",
+    "tryLabel": "Jaribu:",
+    "captionNote": "Inafanya kazi vizuri na video zenye manukuu yaliyowezeshwa.",
+    "features": [
+      { "icon": "✦", "title": "Muhtasari wa Mistari 3", "desc": "Pata ujumbe wa msingi wa video yoyote bila kuitazama." },
+      { "icon": "◈", "title": "Pointi Muhimu + FAQ", "desc": "Maarifa yaliyotolewa, maelezo kwa wanaoanza na orodha ya hatua." },
+      { "icon": "⊕", "title": "Maandishi Kamili", "desc": "Soma na alama za wakati — bonyeza mstari wowote kuruka kwenye video." }
+    ],
+    "seo": {
+      "h2_1": "Zana ya maandishi ya YouTube ni nini?", "p1": "Inakusaidia kubadilisha maudhui ya sauti katika video kuwa maandishi yanayosomeka.",
+      "h2_2": "Jinsi YouSum inavyofupisha video za YouTube", "p2": "YouSum hupata URL, hutoa maandishi na kuibadilisha kuwa muhtasari mfupi.",
+      "h2_3": "Lini kutumia muhtasari wa video ya YouTube", "p3": "Muhimu unapotaka kuokoa muda au kulinganisha video nyingi haraka.",
+      "h2_4": "Kwa nini maandishi na alama za wakati ni muhimu", "p4": "Hufanya maudhui ya video kuwa yanayotafutwa.",
+      "faqTitle": "Maswali Yanayoulizwa Mara kwa Mara",
+      "faqs": [
+        { "q": "Je, naweza kupata maandishi kutoka video yoyote ya YouTube?", "a": "YouSum inafanya kazi na video yoyote ya umma ya YouTube yenye manukuu." },
+        { "q": "Je, YouSum inafanya kazi bila manukuu?", "a": "Hapana — YouSum inategemea data ya manukuu ya YouTube." },
+        { "q": "Je, naweza kufupisha video ndefu za kielimu?", "a": "Ndiyo. YouSum inashughulikia maudhui marefu kama mihadhara na podikasti." },
+        { "q": "Je, YouSum ni ya bure?", "a": "Ndiyo, bure kabisa. Hakuna haja ya kuingia." }
+      ],
+      "toolsTitle": "Zana"
+    }
+  }
+}

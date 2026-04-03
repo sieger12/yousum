@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Công cụ phiên âm và tóm tắt video YouTube miễn phí",
+    "homeDesc": "Nhận phiên âm YouTube và tóm tắt video AI miễn phí trong vài giây. Trích xuất điểm chính, dấu thời gian, ghi chú và câu hỏi thường gặp từ bất kỳ video YouTube nào.",
+    "howTitle": "YouSum hoạt động như thế nào | Phiên âm YouTube và tóm tắt video AI",
+    "howDesc": "Tìm hiểu cách YouSum chuyển đổi video YouTube thành phiên âm, tóm tắt AI, điểm chính, dấu thời gian và FAQ trong vài giây."
+  },
+  "nav": { "summarizer": "Tóm tắt", "howItWorks": "Cách hoạt động" },
+  "footer": "© 2026 YouSum · Không liên kết với YouTube hay Google.",
+  "home": {
+    "badge": "Công cụ AI miễn phí",
+    "h1": "Phiên âm YouTube miễn phí &",
+    "h1gradient": "Công cụ tóm tắt video AI",
+    "sub": "Dán URL YouTube để nhận phiên âm đầy đủ, tóm tắt AI, dấu thời gian, ghi chú và FAQ trong vài giây.",
+    "placeholder": "Dán URL YouTube vào đây...",
+    "button": "Tóm tắt",
+    "tryLabel": "Thử:",
+    "captionNote": "Hoạt động tốt nhất với video có bật phụ đề.",
+    "features": [
+      { "icon": "✦", "title": "Tóm tắt 3 dòng", "desc": "Nắm bắt thông điệp cốt lõi của bất kỳ video nào mà không cần xem." },
+      { "icon": "◈", "title": "Điểm chính + FAQ", "desc": "Thông tin trích xuất, giải thích cho người mới bắt đầu và danh sách hành động." },
+      { "icon": "⊕", "title": "Phiên âm đầy đủ", "desc": "Đọc kèm dấu thời gian — nhấp vào bất kỳ dòng nào để chuyển đến video." }
+    ],
+    "seo": {
+      "h2_1": "Công cụ phiên âm YouTube là gì?",
+      "p1": "Công cụ phiên âm YouTube giúp bạn chuyển đổi nội dung lời nói trong video thành văn bản có thể đọc được. Thay vì phát lại video dài, bạn có thể quét phiên âm và tìm phần cần thiết.",
+      "h2_2": "YouSum tóm tắt video YouTube như thế nào",
+      "p2": "YouSum nhận URL YouTube, trích xuất phiên âm có sẵn và chuyển đổi thành tóm tắt ngắn gọn với các điểm chính, dấu thời gian và FAQ.",
+      "h2_3": "Khi nào nên dùng tóm tắt video YouTube",
+      "p3": "Tóm tắt video hữu ích khi bạn muốn tiết kiệm thời gian, so sánh nhanh nhiều video hoặc xem lại thảo luận dài mà không cần bắt đầu lại từ đầu.",
+      "h2_4": "Tại sao phiên âm và dấu thời gian quan trọng",
+      "p4": "Phiên âm và dấu thời gian giúp nội dung video có thể tìm kiếm và giúp người dùng tìm câu trả lời chính xác mà không cần tìm kiếm toàn bộ video.",
+      "faqTitle": "Câu hỏi thường gặp",
+      "faqs": [
+        { "q": "Tôi có thể lấy phiên âm từ bất kỳ video YouTube nào không?", "a": "YouSum hoạt động với bất kỳ video YouTube công khai nào có bật phụ đề." },
+        { "q": "YouSum có hoạt động không có phụ đề không?", "a": "Không — YouSum dựa vào dữ liệu phụ đề của YouTube. Video không có phụ đề không thể tóm tắt." },
+        { "q": "Tôi có thể tóm tắt video giáo dục dài không?", "a": "Có. YouSum xử lý nội dung dài như bài giảng, podcast đầy đủ và phỏng vấn." },
+        { "q": "YouSum có miễn phí không?", "a": "Có, hoàn toàn miễn phí. Không cần đăng nhập." }
+      ],
+      "toolsTitle": "Công cụ"
+    }
+  }
+}

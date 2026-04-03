@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Gratis YouTube-transcriptie en videosamenvatting tool",
+    "homeDesc": "Ontvang gratis een YouTube-transcriptie en AI-videosamenvatting in seconden. Extraheer kernpunten, tijdstempels, notities en veelgestelde vragen uit elke YouTube-video.",
+    "howTitle": "Hoe YouSum werkt | YouTube-transcriptie en AI-videosamenvatting",
+    "howDesc": "Leer hoe YouSum YouTube-video's omzet in transcripties, AI-samenvattingen, kernpunten, tijdstempels en veelgestelde vragen in seconden."
+  },
+  "nav": { "summarizer": "Samenvatting", "howItWorks": "Hoe het werkt" },
+  "footer": "© 2026 YouSum · Niet gelieerd aan YouTube of Google.",
+  "home": {
+    "badge": "Gratis AI-tool",
+    "h1": "Gratis YouTube-transcriptie &",
+    "h1gradient": "AI-videosamenvatting tool",
+    "sub": "Plak een YouTube-URL om een volledige transcriptie, AI-samenvatting, tijdstempels, notities en veelgestelde vragen in seconden te ontvangen.",
+    "placeholder": "Plak hier YouTube-URL...",
+    "button": "Samenvatten",
+    "tryLabel": "Probeer:",
+    "captionNote": "Werkt het beste met video's met ingeschakelde ondertitels.",
+    "features": [
+      { "icon": "✦", "title": "Samenvatting in 3 regels", "desc": "Ontvang de kernboodschap van elke video zonder ernaar te kijken." },
+      { "icon": "◈", "title": "Kernpunten + FAQ", "desc": "Geëxtraheerde inzichten, uitleg voor beginners en actiechecklist." },
+      { "icon": "⊕", "title": "Volledige transcriptie", "desc": "Lees met tijdstempels — klik op een regel om naar de video te springen." }
+    ],
+    "seo": {
+      "h2_1": "Wat is een YouTube-transcriptietool?",
+      "p1": "Een YouTube-transcriptietool helpt je gesproken video-inhoud om te zetten in leesbare tekst. In plaats van een lange video opnieuw af te spelen, kun je de transcriptie scannen en de exacte sectie vinden die je nodig hebt.",
+      "h2_2": "Hoe YouSum YouTube-video's samenvat",
+      "p2": "YouSum neemt een YouTube-URL, extraheert de beschikbare transcriptie en zet deze om in een beknopte samenvatting met kernpunten, tijdstempels en FAQ.",
+      "h2_3": "Wanneer een YouTube-videosamenvatting gebruiken",
+      "p3": "Een videosamenvatting is nuttig wanneer je tijd wilt besparen, meerdere video's snel wilt vergelijken of een lange discussie wilt herzien zonder opnieuw te beginnen.",
+      "h2_4": "Waarom transcripties en tijdstempels belangrijk zijn",
+      "p4": "Transcripties en tijdstempels maken video-inhoud doorzoekbaar en helpen gebruikers exacte antwoorden te vinden zonder de hele video te moeten doorzoeken.",
+      "faqTitle": "Veelgestelde vragen",
+      "faqs": [
+        { "q": "Kan ik een transcriptie krijgen van elke YouTube-video?", "a": "YouSum werkt met elke openbare YouTube-video met ingeschakelde ondertitels." },
+        { "q": "Werkt YouSum zonder ondertitels?", "a": "Nee — YouSum is afhankelijk van de ondertitelgegevens van YouTube. Video's zonder ondertitels kunnen niet worden samengevat." },
+        { "q": "Kan ik lange educatieve video's samenvatten?", "a": "Ja. YouSum verwerkt lange inhoud zoals lezingen, volledige podcasts en interviews." },
+        { "q": "Is YouSum gratis?", "a": "Ja, volledig gratis. Geen login vereist." }
+      ],
+      "toolsTitle": "Tools"
+    }
+  }
+}

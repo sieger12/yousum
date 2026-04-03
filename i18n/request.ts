@@ -7,11 +7,13 @@ export default getRequestConfig(async ({ requestLocale }) => {
     locale = routing.defaultLocale;
   }
 
-  // Only en and ko have full translations, everything else falls back to en
-  const messageLocale = (locale === "ko") ? "ko" : "en";
+  let messages;
+  try {
+    messages = (await import(`../messages/${locale}.json`)).default;
+  } catch {
+    // Fallback to English if translation file doesn't exist
+    messages = (await import(`../messages/en.json`)).default;
+  }
 
-  return {
-    locale,
-    messages: (await import(`../messages/${messageLocale}.json`)).default,
-  };
+  return { locale, messages };
 });

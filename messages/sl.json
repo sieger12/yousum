@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Brezplačno orodje za prepis in povzetek videa YouTube",
+    "homeDesc": "Pridobite brezplačen prepis YouTube in povzetek videa z AI v sekundah. Izvlecite ključne točke, časovne žige, opombe in pogosta vprašanja iz katerega koli videa YouTube.",
+    "howTitle": "Kako deluje YouSum | Prepis YouTube in povzetek videa z AI",
+    "howDesc": "Spoznajte, kako YouSum pretvori videe YouTube v prepise, povzetke AI, ključne točke, časovne žige in pogosta vprašanja v sekundah."
+  },
+  "nav": { "summarizer": "Povzetek", "howItWorks": "Kako deluje" },
+  "footer": "© 2026 YouSum · Ni povezan z YouTube ali Google.",
+  "home": {
+    "badge": "Brezplačno orodje AI",
+    "h1": "Brezplačen prepis YouTube &",
+    "h1gradient": "Orodje za povzetek videa z AI",
+    "sub": "Prilepite URL YouTube, da v sekundah pridobite celoten prepis, povzetek AI, časovne žige, opombe in pogosta vprašanja.",
+    "placeholder": "Prilepite URL YouTube tukaj...",
+    "button": "Povzemi",
+    "tryLabel": "Preizkusite:",
+    "captionNote": "Najbolje deluje z videi z omogočenimi podnapisi.",
+    "features": [
+      { "icon": "✦", "title": "Povzetek v 3 vrsticah", "desc": "Pridobite osnovno sporočilo katerega koli videa brez gledanja." },
+      { "icon": "◈", "title": "Ključne točke + FAQ", "desc": "Izvlečeni vpogledi, razlaga za začetnike in kontrolni seznam dejanj." },
+      { "icon": "⊕", "title": "Celoten prepis", "desc": "Berite s časovnimi žigi — kliknite na katero koli vrstico za skok v video." }
+    ],
+    "seo": {
+      "h2_1": "Kaj je orodje za prepis YouTube?", "p1": "Pomaga pretvoriti govorjeno vsebino videa v berljivo besedilo.",
+      "h2_2": "Kako YouSum povzema videe YouTube", "p2": "YouSum vzame URL, izvleče prepis in ga pretvori v jedrnat povzetek.",
+      "h2_3": "Kdaj uporabiti povzetek videa YouTube", "p3": "Koristno za prihranek časa in hitro primerjavo videov.",
+      "h2_4": "Zakaj so prepisi in časovni žigi pomembni", "p4": "Omogočajo iskanje po vsebini videa.",
+      "faqTitle": "Pogosta vprašanja",
+      "faqs": [
+        { "q": "Ali lahko dobim prepis katerega koli videa YouTube?", "a": "YouSum deluje s katerim koli javnim videom YouTube z omogočenimi podnapisi." },
+        { "q": "Ali YouSum deluje brez podnapisov?", "a": "Ne — YouSum se zanaša na podatke podnapisov YouTube." },
+        { "q": "Ali lahko povzamem dolge izobraževalne videe?", "a": "Da. YouSum obdeluje dolgo vsebino, kot so predavanja in podcasti." },
+        { "q": "Je YouSum brezplačen?", "a": "Da, popolnoma brezplačno. Prijava ni potrebna." }
+      ],
+      "toolsTitle": "Orodja"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Instrument gratuit de transcriere și rezumat video YouTube",
+    "homeDesc": "Obțineți gratuit o transcriere YouTube și un rezumat video AI în câteva secunde. Extrageți puncte cheie, marcaje de timp, notițe și FAQ din orice video YouTube.",
+    "howTitle": "Cum funcționează YouSum | Transcriere YouTube și rezumat video AI",
+    "howDesc": "Aflați cum YouSum transformă videoclipurile YouTube în transcrieri, rezumate AI, puncte cheie, marcaje de timp și FAQ în câteva secunde."
+  },
+  "nav": { "summarizer": "Rezumat", "howItWorks": "Cum funcționează" },
+  "footer": "© 2026 YouSum · Nu este afiliat cu YouTube sau Google.",
+  "home": {
+    "badge": "Instrument AI Gratuit",
+    "h1": "Transcriere YouTube gratuită &",
+    "h1gradient": "Instrument de rezumat video AI",
+    "sub": "Lipiți un URL YouTube pentru a obține o transcriere completă, rezumat AI, marcaje de timp, notițe și FAQ în câteva secunde.",
+    "placeholder": "Lipiți URL-ul YouTube aici...",
+    "button": "Rezumați",
+    "tryLabel": "Încercați:",
+    "captionNote": "Funcționează cel mai bine cu videoclipuri care au subtitrări activate.",
+    "features": [
+      { "icon": "✦", "title": "Rezumat în 3 rânduri", "desc": "Obțineți mesajul central al oricărui videoclip fără să-l vizionați." },
+      { "icon": "◈", "title": "Puncte cheie + FAQ", "desc": "Informații extrase, explicație pentru începători și listă de acțiuni." },
+      { "icon": "⊕", "title": "Transcriere completă", "desc": "Citiți cu marcaje de timp — faceți clic pe orice linie pentru a sări în video." }
+    ],
+    "seo": {
+      "h2_1": "Ce este un instrument de transcriere YouTube?",
+      "p1": "Un instrument de transcriere YouTube vă ajută să transformați conținutul vorbit al unui videoclip în text citibil. În loc să redați din nou un videoclip lung, puteți scana transcrierea și găsi exact secțiunea de care aveți nevoie.",
+      "h2_2": "Cum rezumă YouSum videoclipurile YouTube",
+      "p2": "YouSum preia un URL YouTube, extrage transcrierea disponibilă și o transformă într-un rezumat concis cu puncte cheie, marcaje de timp și FAQ.",
+      "h2_3": "Când să folosiți un rezumat video YouTube",
+      "p3": "Un rezumat video este util când doriți să economisiți timp, să comparați rapid mai multe videoclipuri sau să revizuiți o discuție lungă fără a o relua de la început.",
+      "h2_4": "De ce contează transcrierile și marcajele de timp",
+      "p4": "Transcrierile și marcajele de timp fac conținutul video căutabil și ajută utilizatorii să găsească răspunsuri exacte fără a trebui să caute prin întregul videoclip.",
+      "faqTitle": "Întrebări frecvente",
+      "faqs": [
+        { "q": "Pot obține o transcriere din orice videoclip YouTube?", "a": "YouSum funcționează cu orice videoclip YouTube public care are subtitrări activate." },
+        { "q": "Funcționează YouSum fără subtitrări?", "a": "Nu — YouSum se bazează pe datele de subtitrare ale YouTube. Videoclipurile fără subtitrări nu pot fi rezumate." },
+        { "q": "Pot rezuma videoclipuri educaționale lungi?", "a": "Da. YouSum gestionează conținut lung, cum ar fi cursuri, podcasturi complete și interviuri." },
+        { "q": "Este YouSum gratuit?", "a": "Da, complet gratuit. Nu este necesară autentificarea." }
+      ],
+      "toolsTitle": "Instrumente"
+    }
+  }
+}

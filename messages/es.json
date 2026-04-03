@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Herramienta gratuita de transcripción y resumen de video de YouTube",
+    "homeDesc": "Obtén una transcripción de YouTube y un resumen de video con IA en segundos. Extrae puntos clave, marcas de tiempo, notas y preguntas frecuentes de cualquier video de YouTube.",
+    "howTitle": "Cómo funciona YouSum | Transcripción de YouTube y resumen de video con IA",
+    "howDesc": "Aprende cómo YouSum convierte videos de YouTube en transcripciones, resúmenes con IA, puntos clave, marcas de tiempo y preguntas frecuentes en segundos."
+  },
+  "nav": { "summarizer": "Resumidor", "howItWorks": "Cómo funciona" },
+  "footer": "© 2026 YouSum · No afiliado con YouTube ni Google.",
+  "home": {
+    "badge": "Herramienta de IA Gratuita",
+    "h1": "Transcripción gratuita de YouTube &",
+    "h1gradient": "Herramienta de resumen de video con IA",
+    "sub": "Pega una URL de YouTube para obtener una transcripción completa, resumen con IA, marcas de tiempo, notas y preguntas frecuentes en segundos.",
+    "placeholder": "Pega la URL de YouTube aquí...",
+    "button": "Resumir",
+    "tryLabel": "Probar:",
+    "captionNote": "Funciona mejor con videos que tienen subtítulos activados.",
+    "features": [
+      { "icon": "✦", "title": "Resumen en 3 líneas", "desc": "Obtén el mensaje central de cualquier video sin verlo." },
+      { "icon": "◈", "title": "Puntos clave + FAQ", "desc": "Insights extraídos, explicación para principiantes y lista de acciones." },
+      { "icon": "⊕", "title": "Transcripción completa", "desc": "Lee con marcas de tiempo — haz clic en cualquier línea para saltar al video." }
+    ],
+    "seo": {
+      "h2_1": "¿Qué es una herramienta de transcripción de YouTube?",
+      "p1": "Una herramienta de transcripción de YouTube te ayuda a convertir el contenido hablado de un video en texto legible. En lugar de reproducir un video largo, puedes escanear la transcripción y encontrar exactamente lo que necesitas.",
+      "h2_2": "Cómo YouSum resume los videos de YouTube",
+      "p2": "YouSum toma una URL de YouTube, extrae la transcripción disponible y la convierte en un resumen conciso con puntos clave, marcas de tiempo y preguntas frecuentes.",
+      "h2_3": "Cuándo usar un resumen de video de YouTube",
+      "p3": "Un resumen de video es útil cuando quieres ahorrar tiempo, comparar varios videos rápidamente o revisar una larga discusión sin empezar desde el principio.",
+      "h2_4": "Por qué importan las transcripciones y las marcas de tiempo",
+      "p4": "Las transcripciones y las marcas de tiempo hacen que el contenido de video sea buscable y te ayudan a encontrar respuestas exactas sin necesidad de buscar en todo el video.",
+      "faqTitle": "Preguntas frecuentes",
+      "faqs": [
+        { "q": "¿Puedo obtener una transcripción de cualquier video de YouTube?", "a": "YouSum funciona con cualquier video público de YouTube que tenga subtítulos activados." },
+        { "q": "¿Funciona YouSum sin subtítulos?", "a": "No — YouSum depende de los datos de subtítulos de YouTube. Los videos sin subtítulos no pueden resumirse." },
+        { "q": "¿Puedo resumir videos educativos largos?", "a": "Sí. YouSum maneja contenido extenso como conferencias, podcasts completos y entrevistas." },
+        { "q": "¿Es YouSum gratuito?", "a": "Sí, completamente gratuito. No se requiere inicio de sesión." }
+      ],
+      "toolsTitle": "Herramientas"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Ücretsiz YouTube Transkript ve Video Özeti Aracı",
+    "homeDesc": "Saniyeler içinde ücretsiz YouTube transkripti ve yapay zeka video özeti alın. Herhangi bir YouTube videosundan anahtar noktalar, zaman damgaları, notlar ve SSS çıkarın.",
+    "howTitle": "YouSum Nasıl Çalışır | YouTube Transkript ve Yapay Zeka Video Özeti",
+    "howDesc": "YouSum'un YouTube videolarını saniyeler içinde transkriptlere, yapay zeka özetlerine, anahtar noktalara, zaman damgalarına ve SSS'ye nasıl dönüştürdüğünü öğrenin."
+  },
+  "nav": { "summarizer": "Özetleyici", "howItWorks": "Nasıl çalışır" },
+  "footer": "© 2026 YouSum · YouTube veya Google ile bağlantılı değildir.",
+  "home": {
+    "badge": "Ücretsiz Yapay Zeka Aracı",
+    "h1": "Ücretsiz YouTube Transkripti &",
+    "h1gradient": "Yapay Zeka Video Özeti Aracı",
+    "sub": "Saniyeler içinde tam transkript, yapay zeka özeti, zaman damgaları, notlar ve SSS almak için bir YouTube URL'si yapıştırın.",
+    "placeholder": "YouTube URL'sini buraya yapıştırın...",
+    "button": "Özetle",
+    "tryLabel": "Deneyin:",
+    "captionNote": "Altyazıların etkin olduğu videolarda en iyi çalışır.",
+    "features": [
+      { "icon": "✦", "title": "3 Satırlık Özet", "desc": "Herhangi bir videonun özünü izlemeden öğrenin." },
+      { "icon": "◈", "title": "Anahtar Noktalar + SSS", "desc": "Çıkarılan bilgiler, başlangıç seviyesi açıklama ve eylem kontrol listesi." },
+      { "icon": "⊕", "title": "Tam Transkript", "desc": "Zaman damgalarıyla okuyun — videoda o ana atlamak için herhangi bir satıra tıklayın." }
+    ],
+    "seo": {
+      "h2_1": "YouTube transkript aracı nedir?",
+      "p1": "YouTube transkript aracı, bir videodaki sözlü içeriği okunabilir metne dönüştürmenize yardımcı olur. Uzun bir videoyu yeniden oynatmak yerine transkripti tarayabilir ve ihtiyacınız olan bölümü bulabilirsiniz.",
+      "h2_2": "YouSum YouTube videolarını nasıl özetler",
+      "p2": "YouSum bir YouTube URL'si alır, mevcut transkripti çıkarır ve anahtar noktalar, zaman damgaları ve SSS içeren özlü bir özete dönüştürür.",
+      "h2_3": "YouTube video özeti ne zaman kullanılır",
+      "p3": "Video özeti, zaman kazanmak, birden fazla videoyu hızlıca karşılaştırmak veya uzun bir tartışmayı baştan başlamadan gözden geçirmek istediğinizde kullanışlıdır.",
+      "h2_4": "Transkriptler ve zaman damgaları neden önemlidir",
+      "p4": "Transkriptler ve zaman damgaları, video içeriğini aranabilir kılar ve tüm videoyu aramak zorunda kalmadan tam yanıtlar bulmanıza yardımcı olur.",
+      "faqTitle": "Sıkça Sorulan Sorular",
+      "faqs": [
+        { "q": "Herhangi bir YouTube videosundan transkript alabilir miyim?", "a": "YouSum, altyazıların etkin olduğu her türlü genel YouTube videosuyla çalışır." },
+        { "q": "YouSum altyazı olmadan çalışır mı?", "a": "Hayır — YouSum, YouTube'un altyazı verilerine dayanır. Altyazısız videolar özetlenemez." },
+        { "q": "Uzun eğitim videolarını özetleyebilir miyim?", "a": "Evet. YouSum, dersler, tam podcast'ler ve röportajlar gibi uzun içerikleri işler." },
+        { "q": "YouSum ücretsiz mi?", "a": "Evet, tamamen ücretsiz. Giriş gerekmez." }
+      ],
+      "toolsTitle": "Araçlar"
+    }
+  }
+}

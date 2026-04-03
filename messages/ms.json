@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Alat Transkripsi dan Ringkasan Video YouTube Percuma",
+    "homeDesc": "Dapatkan transkripsi YouTube dan ringkasan video AI secara percuma dalam beberapa saat. Ekstrak poin utama, cap masa, nota dan FAQ daripada mana-mana video YouTube.",
+    "howTitle": "Cara YouSum Berfungsi | Transkripsi YouTube dan Ringkasan Video AI",
+    "howDesc": "Ketahui cara YouSum mengubah video YouTube kepada transkripsi, ringkasan AI, poin utama, cap masa dan FAQ dalam beberapa saat."
+  },
+  "nav": { "summarizer": "Peringkas", "howItWorks": "Cara berfungsi" },
+  "footer": "© 2026 YouSum · Tidak bersekutu dengan YouTube atau Google.",
+  "home": {
+    "badge": "Alat AI Percuma",
+    "h1": "Transkripsi YouTube Percuma &",
+    "h1gradient": "Alat Ringkasan Video AI",
+    "sub": "Tampal URL YouTube untuk mendapatkan transkripsi lengkap, ringkasan AI, cap masa, nota dan FAQ dalam beberapa saat.",
+    "placeholder": "Tampal URL YouTube di sini...",
+    "button": "Ringkaskan",
+    "tryLabel": "Cuba:",
+    "captionNote": "Berfungsi terbaik dengan video yang mempunyai sari kata diaktifkan.",
+    "features": [
+      { "icon": "✦", "title": "Ringkasan 3 Baris", "desc": "Dapatkan mesej utama mana-mana video tanpa menontonnya." },
+      { "icon": "◈", "title": "Poin Utama + FAQ", "desc": "Wawasan yang diekstrak, penjelasan untuk pemula dan senarai tindakan." },
+      { "icon": "⊕", "title": "Transkripsi Lengkap", "desc": "Baca dengan cap masa — klik mana-mana baris untuk melompat ke video." }
+    ],
+    "seo": {
+      "h2_1": "Apakah alat transkripsi YouTube?",
+      "p1": "Alat transkripsi YouTube membantu anda menukar kandungan lisan video kepada teks yang boleh dibaca. Daripada memutar semula video yang panjang, anda boleh mengimbas transkripsi dan mencari bahagian yang diperlukan.",
+      "h2_2": "Cara YouSum meringkaskan video YouTube",
+      "p2": "YouSum mengambil URL YouTube, mengekstrak transkripsi yang tersedia dan menukarnya kepada ringkasan ringkas dengan poin utama, cap masa dan FAQ.",
+      "h2_3": "Bila menggunakan ringkasan video YouTube",
+      "p3": "Ringkasan video berguna apabila anda ingin menjimatkan masa, membandingkan beberapa video dengan cepat atau menyemak perbincangan panjang tanpa bermula dari awal.",
+      "h2_4": "Mengapa transkripsi dan cap masa penting",
+      "p4": "Transkripsi dan cap masa menjadikan kandungan video boleh dicari dan membantu pengguna mencari jawapan tepat tanpa perlu mencari keseluruhan video.",
+      "faqTitle": "Soalan Lazim",
+      "faqs": [
+        { "q": "Bolehkah saya mendapatkan transkripsi daripada mana-mana video YouTube?", "a": "YouSum berfungsi dengan mana-mana video YouTube awam yang mempunyai sari kata diaktifkan." },
+        { "q": "Adakah YouSum berfungsi tanpa sari kata?", "a": "Tidak — YouSum bergantung pada data sari kata YouTube. Video tanpa sari kata tidak boleh diringkaskan." },
+        { "q": "Bolehkah saya meringkaskan video pendidikan yang panjang?", "a": "Ya. YouSum mengendalikan kandungan panjang seperti kuliah, podcast penuh dan temu bual." },
+        { "q": "Adakah YouSum percuma?", "a": "Ya, sepenuhnya percuma. Tiada log masuk diperlukan." }
+      ],
+      "toolsTitle": "Alat"
+    }
+  }
+}

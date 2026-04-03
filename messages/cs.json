@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Bezplatný nástroj pro přepis a shrnutí videí YouTube",
+    "homeDesc": "Získejte bezplatný přepis YouTube a shrnutí videa s AI za sekund. Extrahujte klíčové body, časové značky, poznámky a FAQ z libovolného videa YouTube.",
+    "howTitle": "Jak funguje YouSum | Přepis YouTube a shrnutí videa s AI",
+    "howDesc": "Zjistěte, jak YouSum transformuje videa YouTube na přepisy, AI shrnutí, klíčové body, časové značky a FAQ za sekund."
+  },
+  "nav": { "summarizer": "Shrnutí", "howItWorks": "Jak to funguje" },
+  "footer": "© 2026 YouSum · Není přidružen k YouTube ani Google.",
+  "home": {
+    "badge": "Bezplatný nástroj AI",
+    "h1": "Bezplatný přepis YouTube &",
+    "h1gradient": "Nástroj pro shrnutí videa s AI",
+    "sub": "Vložte URL YouTube a získejte úplný přepis, shrnutí AI, časové značky, poznámky a FAQ za sekund.",
+    "placeholder": "Vložte URL YouTube zde...",
+    "button": "Shrnout",
+    "tryLabel": "Vyzkoušejte:",
+    "captionNote": "Funguje nejlépe s videi s povolenými titulky.",
+    "features": [
+      { "icon": "✦", "title": "Shrnutí ve 3 řádcích", "desc": "Získejte hlavní poselství libovolného videa, aniž byste ho sledovali." },
+      { "icon": "◈", "title": "Klíčové body + FAQ", "desc": "Extrahované poznatky, vysvětlení pro začátečníky a kontrolní seznam akcí." },
+      { "icon": "⊕", "title": "Úplný přepis", "desc": "Čtěte s časovými značkami — klikněte na libovolný řádek a přeskočte ve videu." }
+    ],
+    "seo": {
+      "h2_1": "Co je nástroj pro přepis YouTube?",
+      "p1": "Nástroj pro přepis YouTube vám pomáhá převést mluvený obsah videa na čitelný text. Namísto opětovného přehrávání dlouhého videa můžete procházet přepis a najít přesně to, co potřebujete.",
+      "h2_2": "Jak YouSum shrnuje videa YouTube",
+      "p2": "YouSum vezme URL YouTube, extrahuje dostupný přepis a převede ho na stručné shrnutí s klíčovými body, časovými značkami a FAQ.",
+      "h2_3": "Kdy použít shrnutí videa YouTube",
+      "p3": "Shrnutí videa je užitečné, když chcete ušetřit čas, rychle porovnat více videí nebo zkontrolovat dlouhou diskusi bez nutnosti začínat znovu.",
+      "h2_4": "Proč jsou přepisy a časové značky důležité",
+      "p4": "Přepisy a časové značky činí obsah videa prohledávatelným a pomáhají uživatelům najít přesné odpovědi, aniž by museli procházet celé video.",
+      "faqTitle": "Nejčastější otázky",
+      "faqs": [
+        { "q": "Mohu získat přepis z libovolného videa YouTube?", "a": "YouSum funguje s libovolným veřejným videem YouTube s povolenými titulky." },
+        { "q": "Funguje YouSum bez titulků?", "a": "Ne — YouSum se spoléhá na data titulků YouTube. Videa bez titulků nelze shrnout." },
+        { "q": "Mohu shrnovat dlouhá vzdělávací videa?", "a": "Ano. YouSum zpracovává dlouhý obsah, jako jsou přednášky, celé podcasty a rozhovory." },
+        { "q": "Je YouSum zdarma?", "a": "Ano, zcela zdarma. Přihlášení není vyžadováno." }
+      ],
+      "toolsTitle": "Nástroje"
+    }
+  }
+}

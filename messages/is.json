@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Ókeypis YouTube umritun og myndbandssamantekt",
+    "homeDesc": "Fáðu ókeypis YouTube umritun og AI myndbandssamantekt á sekúndum. Dragðu út lykilatriði, tímasetningar, glósur og algengar spurningar úr hvaða YouTube myndbandi sem er.",
+    "howTitle": "Hvernig YouSum virkar | YouTube umritun og AI myndbandssamantekt",
+    "howDesc": "Lærðu hvernig YouSum breytir YouTube myndböndum í umritanir, AI samantektir, lykilatriði og tímasetningar á sekúndum."
+  },
+  "nav": { "summarizer": "Samantekt", "howItWorks": "Hvernig það virkar" },
+  "footer": "© 2026 YouSum · Ekki tengt YouTube eða Google.",
+  "home": {
+    "badge": "Ókeypis AI tól",
+    "h1": "Ókeypis YouTube umritun &",
+    "h1gradient": "AI myndbandssamantekt tól",
+    "sub": "Límdu YouTube URL til að fá fulla umritun, AI samantekt, tímasetningar og algengar spurningar á sekúndum.",
+    "placeholder": "Límdu YouTube URL hér...",
+    "button": "Taka saman",
+    "tryLabel": "Prófaðu:",
+    "captionNote": "Virkar best með myndböndum með skjátexta.",
+    "features": [
+      { "icon": "✦", "title": "3 línu samantekt", "desc": "Fáðu kjarnaboðskap hvaða myndbands sem er án þess að horfa á það." },
+      { "icon": "◈", "title": "Lykilatriði + FAQ", "desc": "Dregnar út innsýnir, skýring fyrir byrjendur og aðgerðalisti." },
+      { "icon": "⊕", "title": "Full umritun", "desc": "Lestu með tímasetningum — smelltu á hvaða línu sem er til að hoppa í myndbandið." }
+    ],
+    "seo": {
+      "h2_1": "Hvað er YouTube umritunartól?", "p1": "Hjálpar þér að breyta töluðu myndbandsefni í lesanlegan texta.",
+      "h2_2": "Hvernig YouSum tekur saman YouTube myndbönd", "p2": "YouSum tekur URL, dregur út umritun og breytir henni í stutta samantekt.",
+      "h2_3": "Hvenær á að nota YouTube myndbandssamantekt", "p3": "Gagnlegt þegar þú vilt spara tíma eða bera saman mörg myndbönd fljótt.",
+      "h2_4": "Af hverju umritanir og tímasetningar skipta máli", "p4": "Gera myndbandsefni leitanlegt.",
+      "faqTitle": "Algengar spurningar",
+      "faqs": [
+        { "q": "Get ég fengið umritun úr hvaða YouTube myndbandi sem er?", "a": "YouSum virkar með hvaða opinbert YouTube myndband sem er með skjátexta." },
+        { "q": "Virkar YouSum án skjátexta?", "a": "Nei — YouSum treystir á skjátextagögn YouTube." },
+        { "q": "Get ég tekið saman löng fræðslumyndbönd?", "a": "Já. YouSum meðhöndlar langt efni eins og fyrirlestra og podcasta." },
+        { "q": "Er YouSum ókeypis?", "a": "Já, alveg ókeypis. Engin innskráning þarf." }
+      ],
+      "toolsTitle": "Tól"
+    }
+  }
+}

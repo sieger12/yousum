@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Bezpłatne narzędzie do transkrypcji i streszczenia filmów YouTube",
+    "homeDesc": "Uzyskaj bezpłatną transkrypcję YouTube i streszczenie wideo AI w kilka sekund. Wyodrębnij kluczowe punkty, znaczniki czasu, notatki i FAQ z dowolnego filmu YouTube.",
+    "howTitle": "Jak działa YouSum | Transkrypcja YouTube i streszczenie wideo AI",
+    "howDesc": "Dowiedz się, jak YouSum przekształca filmy YouTube w transkrypcje, streszczenia AI, kluczowe punkty, znaczniki czasu i FAQ w kilka sekund."
+  },
+  "nav": { "summarizer": "Streszczenie", "howItWorks": "Jak to działa" },
+  "footer": "© 2026 YouSum · Nie powiązany z YouTube ani Google.",
+  "home": {
+    "badge": "Bezpłatne narzędzie AI",
+    "h1": "Bezpłatna transkrypcja YouTube &",
+    "h1gradient": "Narzędzie do streszczania wideo AI",
+    "sub": "Wklej adres URL YouTube, aby uzyskać pełną transkrypcję, streszczenie AI, znaczniki czasu, notatki i FAQ w kilka sekund.",
+    "placeholder": "Wklej tutaj adres URL YouTube...",
+    "button": "Streść",
+    "tryLabel": "Wypróbuj:",
+    "captionNote": "Działa najlepiej z filmami z włączonymi napisami.",
+    "features": [
+      { "icon": "✦", "title": "Streszczenie w 3 liniach", "desc": "Poznaj główne przesłanie dowolnego filmu bez jego oglądania." },
+      { "icon": "◈", "title": "Kluczowe punkty + FAQ", "desc": "Wyodrębnione spostrzeżenia, wyjaśnienie dla początkujących i lista działań." },
+      { "icon": "⊕", "title": "Pełna transkrypcja", "desc": "Czytaj ze znacznikami czasu — kliknij dowolną linię, aby przejść do wideo." }
+    ],
+    "seo": {
+      "h2_1": "Czym jest narzędzie do transkrypcji YouTube?",
+      "p1": "Narzędzie do transkrypcji YouTube pomaga przekształcić mówioną treść wideo w czytelny tekst. Zamiast odtwarzać długi film, możesz przeskanować transkrypcję i znaleźć dokładnie potrzebną sekcję.",
+      "h2_2": "Jak YouSum streszcza filmy YouTube",
+      "p2": "YouSum pobiera adres URL YouTube, wyodrębnia dostępną transkrypcję i przekształca ją w zwięzłe streszczenie z kluczowymi punktami, znacznikami czasu i FAQ.",
+      "h2_3": "Kiedy używać streszczenia wideo YouTube",
+      "p3": "Streszczenie wideo jest przydatne, gdy chcesz zaoszczędzić czas, szybko porównać kilka filmów lub przejrzeć długą dyskusję bez zaczynania od początku.",
+      "h2_4": "Dlaczego transkrypcje i znaczniki czasu są ważne",
+      "p4": "Transkrypcje i znaczniki czasu sprawiają, że treści wideo stają się przeszukiwalne i pomagają znaleźć dokładne odpowiedzi bez przeglądania całego filmu.",
+      "faqTitle": "Często zadawane pytania",
+      "faqs": [
+        { "q": "Czy mogę uzyskać transkrypcję z dowolnego filmu YouTube?", "a": "YouSum działa z każdym publicznym filmem YouTube z włączonymi napisami." },
+        { "q": "Czy YouSum działa bez napisów?", "a": "Nie — YouSum opiera się na danych napisów YouTube. Filmy bez napisów nie mogą być streszczane." },
+        { "q": "Czy mogę streszczać długie filmy edukacyjne?", "a": "Tak. YouSum obsługuje długie treści, takie jak wykłady, pełne podcasty i wywiady." },
+        { "q": "Czy YouSum jest bezpłatny?", "a": "Tak, całkowicie bezpłatny. Logowanie nie jest wymagane." }
+      ],
+      "toolsTitle": "Narzędzia"
+    }
+  }
+}

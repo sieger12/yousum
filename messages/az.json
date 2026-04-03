@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Pulsuz YouTube Transkripsiya və Video Xülasə Aləti",
+    "homeDesc": "Saniyələr ərzində pulsuz YouTube transkripsiyası və AI video xülasəsi əldə edin. İstənilən YouTube videosundan əsas məqamları, zaman damğalarını, qeydləri və FAQ-ları çıxarın.",
+    "howTitle": "YouSum Necə İşləyir | YouTube Transkripsiya və AI Video Xülasəsi",
+    "howDesc": "YouSum-un YouTube videolarını saniyələr ərzində transkripsiyalara, AI xülasələrinə, əsas məqamlara, zaman damğalarına və FAQ-lara necə çevirdiyin öyrənin."
+  },
+  "nav": { "summarizer": "Xülasə", "howItWorks": "Necə işləyir" },
+  "footer": "© 2026 YouSum · YouTube və ya Google ilə əlaqəli deyil.",
+  "home": {
+    "badge": "Pulsuz AI Aləti",
+    "h1": "Pulsuz YouTube Transkripsiyası &",
+    "h1gradient": "AI Video Xülasə Aləti",
+    "sub": "Saniyələr ərzində tam transkripsiya, AI xülasəsi, zaman damğaları, qeydlər və FAQ almaq üçün YouTube URL-ni yapışdırın.",
+    "placeholder": "YouTube URL-ni buraya yapışdırın...",
+    "button": "Xülasə Et",
+    "tryLabel": "Sınayın:",
+    "captionNote": "Altyazı aktiv olan videolarla ən yaxşı işləyir.",
+    "features": [
+      { "icon": "✦", "title": "3 Sətirli Xülasə", "desc": "İzləmədən istənilən videonun əsas mesajını əldə edin." },
+      { "icon": "◈", "title": "Əsas Məqamlar + FAQ", "desc": "Çıxarılmış fikirlər, yeni başlayanlar üçün izah və fəaliyyət yoxlama siyahısı." },
+      { "icon": "⊕", "title": "Tam Transkripsiya", "desc": "Zaman damğaları ilə oxuyun — videoya keçmək üçün istənilən sətirə klikləyin." }
+    ],
+    "seo": {
+      "h2_1": "YouTube transkripsiya aləti nədir?",
+      "p1": "YouTube transkripsiya aləti videodakı danışıq məzmununu oxunaqlı mətnə çevirməyə kömək edir.",
+      "h2_2": "YouSum YouTube videolarını necə xülasə edir",
+      "p2": "YouSum YouTube URL alır, mövcud transkripsiyani çıxarır və onu əsas məqamlar, zaman damğaları və FAQ ilə qısa xülasəyə çevirir.",
+      "h2_3": "YouTube video xülasəsini nə zaman istifadə etməli",
+      "p3": "Vaxt qənaət etmək, bir neçə videoyu tez müqayisə etmək və ya uzun müzakirəni əvvəldən baxmadan nəzərdən keçirmək istədiyinizdə faydalıdır.",
+      "h2_4": "Transkripsiyalar və zaman damğaları niyə vacibdir",
+      "p4": "Transkripsiyalar və zaman damğaları video məzmununu axtarışa uyğun edir.",
+      "faqTitle": "Tez-tez Verilən Suallar",
+      "faqs": [
+        { "q": "İstənilən YouTube videosundan transkripsiya ala bilərəmmi?", "a": "YouSum altyazı aktiv olan istənilən ictimai YouTube videosu ilə işləyir." },
+        { "q": "YouSum altyazısız işləyirmi?", "a": "Xeyr — YouSum YouTube-un altyazı məlumatlarına əsaslanır." },
+        { "q": "Uzun tədris videolarını xülasə edə bilərəmmi?", "a": "Bəli. YouSum mühazirələr, podcast-lər və müsahibələr kimi uzun məzmunu idarə edir." },
+        { "q": "YouSum pulsuzdurmu?", "a": "Bəli, tamamilə pulsuzdur. Giriş tələb olunmur." }
+      ],
+      "toolsTitle": "Alətlər"
+    }
+  }
+}

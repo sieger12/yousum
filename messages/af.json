@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Gratis YouTube-transkripsie en videoopsomming hulpmiddel",
+    "homeDesc": "Kry gratis 'n YouTube-transkripsie en KI-videoopsomming in sekondes. Onttrek sleutelpunte, tydstempels, notas en FAQ's uit enige YouTube-video.",
+    "howTitle": "Hoe YouSum werk | YouTube-transkripsie en KI-videoopsomming",
+    "howDesc": "Leer hoe YouSum YouTube-videos in transkripsies, KI-opsommings, sleutelpunte, tydstempels en FAQ's omskep in sekondes."
+  },
+  "nav": { "summarizer": "Opsomming", "howItWorks": "Hoe dit werk" },
+  "footer": "© 2026 YouSum · Nie verbonde aan YouTube of Google nie.",
+  "home": {
+    "badge": "Gratis KI-hulpmiddel",
+    "h1": "Gratis YouTube-transkripsie &",
+    "h1gradient": "KI-videoopsomming hulpmiddel",
+    "sub": "Plak 'n YouTube-URL om 'n volledige transkripsie, KI-opsomming, tydstempels, notas en FAQ's in sekondes te kry.",
+    "placeholder": "Plak YouTube-URL hier...",
+    "button": "Opsom",
+    "tryLabel": "Probeer:",
+    "captionNote": "Werk die beste met video's met geaktiveerde onderskrifte.",
+    "features": [
+      { "icon": "✦", "title": "3-reël opsomming", "desc": "Kry die kernboodskap van enige video sonder om dit te kyk." },
+      { "icon": "◈", "title": "Sleutelpunte + FAQ", "desc": "Onttrokke insigte, verduideliking vir beginners en aksie-kontrolelys." },
+      { "icon": "⊕", "title": "Volledige transkripsie", "desc": "Lees met tydstempels — klik op enige reël om in die video te spring." }
+    ],
+    "seo": {
+      "h2_1": "Wat is 'n YouTube-transkripsie hulpmiddel?",
+      "p1": "Hierdie hulpmiddel help jou om gesproke video-inhoud in leesbare teks om te sit.",
+      "h2_2": "Hoe YouSum YouTube-videos opsom",
+      "p2": "YouSum neem 'n YouTube-URL, onttrek die beskikbare transkripsie en skakel dit om na 'n bondige opsomming.",
+      "h2_3": "Wanneer om 'n YouTube-videoopsomming te gebruik",
+      "p3": "Nuttig wanneer jy tyd wil bespaar of verskeie video's vinnig wil vergelyk.",
+      "h2_4": "Hoekom transkripsies en tydstempels belangrik is",
+      "p4": "Transkripsies en tydstempels maak video-inhoud deursoekbaar.",
+      "faqTitle": "Gereeld Gestelde Vrae",
+      "faqs": [
+        { "q": "Kan ek 'n transkripsie van enige YouTube-video kry?", "a": "YouSum werk met enige openbare YouTube-video met onderskrifte." },
+        { "q": "Werk YouSum sonder onderskrifte?", "a": "Nee — YouSum gebruik YouTube se onderskrifte. Video's sonder onderskrifte kan nie opgesom word nie." },
+        { "q": "Kan ek lang opvoedkundige video's opsom?", "a": "Ja. YouSum verwerk lang inhoud soos lesings, podcasts en onderhoude." },
+        { "q": "Is YouSum gratis?", "a": "Ja, heeltemal gratis. Geen aanmelding nodig nie." }
+      ],
+      "toolsTitle": "Hulpmiddels"
+    }
+  }
+}

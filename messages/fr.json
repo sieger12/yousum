@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Outil gratuit de transcription et résumé vidéo YouTube",
+    "homeDesc": "Obtenez gratuitement une transcription YouTube et un résumé vidéo IA en quelques secondes. Extrayez les points clés, horodatages, notes et FAQ de n'importe quelle vidéo YouTube.",
+    "howTitle": "Comment fonctionne YouSum | Transcription YouTube & Résumé vidéo IA",
+    "howDesc": "Découvrez comment YouSum transforme les vidéos YouTube en transcriptions, résumés IA, points clés, horodatages et FAQ en quelques secondes."
+  },
+  "nav": { "summarizer": "Résumeur", "howItWorks": "Comment ça marche" },
+  "footer": "© 2026 YouSum · Non affilié à YouTube ou Google.",
+  "home": {
+    "badge": "Outil IA Gratuit",
+    "h1": "Transcription YouTube gratuite &",
+    "h1gradient": "Outil de résumé vidéo IA",
+    "sub": "Collez une URL YouTube pour obtenir une transcription complète, un résumé IA, des horodatages clés, des notes et des FAQ en quelques secondes.",
+    "placeholder": "Collez l'URL YouTube ici...",
+    "button": "Résumer",
+    "tryLabel": "Essayer :",
+    "captionNote": "Fonctionne mieux avec les vidéos ayant des sous-titres activés.",
+    "features": [
+      { "icon": "✦", "title": "Résumé en 3 lignes", "desc": "Obtenez le message central d'une vidéo sans la regarder." },
+      { "icon": "◈", "title": "Points clés + FAQ", "desc": "Insights extraits, explication pour débutants et liste d'actions." },
+      { "icon": "⊕", "title": "Transcription complète", "desc": "Lisez avec des horodatages — cliquez sur une ligne pour sauter dans la vidéo." }
+    ],
+    "seo": {
+      "h2_1": "Qu'est-ce qu'un outil de transcription YouTube ?",
+      "p1": "Un outil de transcription YouTube vous aide à transformer le contenu parlé d'une vidéo en texte lisible. Au lieu de revoir une longue vidéo, vous pouvez parcourir la transcription et accéder directement à la section souhaitée.",
+      "h2_2": "Comment YouSum résume les vidéos YouTube",
+      "p2": "YouSum prend une URL YouTube, extrait la transcription disponible et la transforme en un résumé concis avec des points clés, des horodatages et des FAQ.",
+      "h2_3": "Quand utiliser un résumé de vidéo YouTube",
+      "p3": "Un résumé vidéo est utile quand vous voulez gagner du temps, comparer rapidement plusieurs vidéos ou revoir une longue discussion sans recommencer depuis le début.",
+      "h2_4": "Pourquoi les transcriptions et les horodatages sont importants",
+      "p4": "Les transcriptions et les horodatages rendent le contenu vidéo consultable et vous aident à trouver des réponses précises sans parcourir toute la vidéo.",
+      "faqTitle": "Foire aux questions",
+      "faqs": [
+        { "q": "Puis-je obtenir une transcription de n'importe quelle vidéo YouTube ?", "a": "YouSum fonctionne avec toute vidéo YouTube publique ayant des sous-titres activés." },
+        { "q": "YouSum fonctionne-t-il sans sous-titres ?", "a": "Non — YouSum s'appuie sur les données de sous-titres de YouTube. Les vidéos sans sous-titres ne peuvent pas être résumées." },
+        { "q": "Puis-je résumer de longues vidéos éducatives ?", "a": "Oui. YouSum traite les contenus longs comme les cours, podcasts et interviews." },
+        { "q": "YouSum est-il gratuit ?", "a": "Oui, entièrement gratuit. Aucune connexion requise." }
+      ],
+      "toolsTitle": "Outils"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – Bezplatný nástroj na prepis a zhrnutie videí YouTube",
+    "homeDesc": "Získajte bezplatný prepis YouTube a zhrnutie videa s AI za sekúnd. Extrahujte kľúčové body, časové značky, poznámky a FAQ z ľubovoľného videa YouTube.",
+    "howTitle": "Ako funguje YouSum | Prepis YouTube a zhrnutie videa s AI",
+    "howDesc": "Zistite, ako YouSum transformuje videá YouTube na prepisy, AI zhrnutia, kľúčové body, časové značky a FAQ za sekúnd."
+  },
+  "nav": { "summarizer": "Zhrnutie", "howItWorks": "Ako to funguje" },
+  "footer": "© 2026 YouSum · Nie je pridružený k YouTube ani Google.",
+  "home": {
+    "badge": "Bezplatný nástroj AI",
+    "h1": "Bezplatný prepis YouTube &",
+    "h1gradient": "Nástroj na zhrnutie videa s AI",
+    "sub": "Vložte URL YouTube a získajte úplný prepis, zhrnutie AI, časové značky, poznámky a FAQ za sekúnd.",
+    "placeholder": "Vložte URL YouTube tu...",
+    "button": "Zhrnúť",
+    "tryLabel": "Vyskúšajte:",
+    "captionNote": "Funguje najlepšie s videami s povolenými titulkami.",
+    "features": [
+      { "icon": "✦", "title": "Zhrnutie v 3 riadkoch", "desc": "Získajte hlavné posolstvo ľubovoľného videa bez jeho sledovania." },
+      { "icon": "◈", "title": "Kľúčové body + FAQ", "desc": "Extrahované poznatky, vysvetlenie pre začiatočníkov a kontrolný zoznam akcií." },
+      { "icon": "⊕", "title": "Úplný prepis", "desc": "Čítajte s časovými značkami — kliknite na ľubovoľný riadok pre preskok vo videu." }
+    ],
+    "seo": {
+      "h2_1": "Čo je nástroj na prepis YouTube?", "p1": "Pomáha premeniť hovorený obsah videa na čitateľný text.",
+      "h2_2": "Ako YouSum sumarizuje videá YouTube", "p2": "YouSum vezme URL, extrahuje prepis a prevedie ho na stručné zhrnutie.",
+      "h2_3": "Kedy použiť zhrnutie videa YouTube", "p3": "Užitočné na úsporu času a rýchle porovnávanie videí.",
+      "h2_4": "Prečo sú prepisy a časové značky dôležité", "p4": "Robia video obsah prehľadávateľným.",
+      "faqTitle": "Často kladené otázky",
+      "faqs": [
+        { "q": "Môžem získať prepis z ľubovoľného videa YouTube?", "a": "YouSum funguje s každým verejným videom YouTube s povolenými titulkami." },
+        { "q": "Funguje YouSum bez tituliek?", "a": "Nie — závisí od titulkových údajov YouTube." },
+        { "q": "Môžem sumarizovať dlhé vzdelávacie videá?", "a": "Áno. YouSum spracováva dlhý obsah ako prednášky a podcasty." },
+        { "q": "Je YouSum zadarmo?", "a": "Áno, úplne zadarmo. Prihlásenie nie je potrebné." }
+      ],
+      "toolsTitle": "Nástroje"
+    }
+  }
+}

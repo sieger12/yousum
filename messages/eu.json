@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "homeTitle": "YouSum – YouTube transkripzio eta bideo laburpen tresna doakoa",
+    "homeDesc": "Lortu YouTube transkripzioa eta AI bideo laburpena segundotan doan. Puntu nagusiak, denbora-zigiluak, oharrak eta FAQ-ak atera edozein YouTube bideotatik.",
+    "howTitle": "Nola funtzionatzen du YouSum-ek | YouTube transkripzioa eta AI bideo laburpena",
+    "howDesc": "Ikasi nola bihurtzen dituen YouSum-ek YouTube bideoak transkripzioetan, AI laburpenetan, puntu nagusietan eta denbora-zigiluetan segundotan."
+  },
+  "nav": { "summarizer": "Laburpena", "howItWorks": "Nola funtzionatzen duen" },
+  "footer": "© 2026 YouSum · Ez dago YouTube edo Google-rekin lotuta.",
+  "home": {
+    "badge": "AI Tresna Doakoa",
+    "h1": "YouTube transkripzio doakoa &",
+    "h1gradient": "AI bideo laburpen tresna",
+    "sub": "Itsatsi YouTube URL bat transkripzio osoa, AI laburpena, denbora-zigiluak eta FAQ-ak segundotan lortzeko.",
+    "placeholder": "Itsatsi YouTube URL hemen...",
+    "button": "Laburtu",
+    "tryLabel": "Probatu:",
+    "captionNote": "Azpitituluak gaituta dituzten bideoekin funtzionatzen du hoberen.",
+    "features": [
+      { "icon": "✦", "title": "3 lerro laburpena", "desc": "Edozein bideoaren mezu nagusia lortu ikusi gabe." },
+      { "icon": "◈", "title": "Puntu nagusiak + FAQ", "desc": "Ateratako ikuspegiak, hasiberrientzako azalpena eta ekintza zerrenda." },
+      { "icon": "⊕", "title": "Transkripzio osoa", "desc": "Irakurri denbora-zigiluekin — egin klik edozein lerrori bideoan saltatzeko." }
+    ],
+    "seo": {
+      "h2_1": "Zer da YouTube transkripzio tresna?", "p1": "Bideoaren hizkuntza-edukia testu irakurgarri bihurtzen laguntzen du.",
+      "h2_2": "Nola laburtzen ditu YouSum-ek YouTube bideoak", "p2": "YouSum-ek URL hartzen du, transkripzioa ateratzen du eta laburpen labur batean bihurtzen du.",
+      "h2_3": "Noiz erabili YouTube bideo laburpena", "p3": "Denbora aurrezteko edo hainbat bideo azkar alderatzeko.",
+      "h2_4": "Zergatik dira garrantzitsuak transkripzioak eta denbora-zigiluak", "p4": "Bideo edukia bilaketa modukoa bihurtzen dute.",
+      "faqTitle": "Maiz Egiten Diren Galderak",
+      "faqs": [
+        { "q": "Edozein YouTube bideotatik transkripzioa lor dezaket?", "a": "YouSum azpitituluak gaituta dituen edozein YouTube bideo publikorekin funtzionatzen du." },
+        { "q": "YouSum-ek azpititulurik gabe funtzionatzen du?", "a": "Ez — YouSum YouTube-ren azpititulu datuetan oinarritzen da." },
+        { "q": "Hezkuntza bideo luzeak laburtu ditzaket?", "a": "Bai. YouSum eduki luzea kudeatzen du, hala nola hitzaldiak eta podcastak." },
+        { "q": "YouSum doakoa al da?", "a": "Bai, guztiz doakoa. Ez da saioa hasi behar." }
+      ],
+      "toolsTitle": "Tresnak"
+    }
+  }
+}
